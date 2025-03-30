@@ -19,12 +19,12 @@ homework_projets
 Projects to be Submitted by PIAIC Students
 AI-101 students will submit the projects in the following form:
 
-For GIAIC Students = https://forms.gle/VPw9wnmt1j8e7bnb6
+For GIAIC Students = Submission Form: https://forms.gle/tS7C3sr55tUZ36GY8
 
 Projects to be Submitted by Governor House Students
 AI-101 students will submit the projects in the following form:
 
-For Governor House Students =
+For Governor House Students = Submission Form: https://forms.gle/tS7C3sr55tUZ36GY8
 
 Project Checking: Your Instructors will check your project on the due date in onsite class. The due date will be selected by the onsite class instructors. You will be removed from the class until you successfully complete your project and submit it.
 
